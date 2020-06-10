@@ -1,4 +1,4 @@
-%Takes a matrix and returns the sum of upper triangle of the matrix
+% Takes a matrix and returns the sum of upper triangle of the matrix
 
 function total = halfsum(A)
     number_of_rows = size(A,1);
